@@ -1,5 +1,22 @@
-## Olá, eu sou Ariel!
+<samp>
+<h4 align="center"> Olá! <img src="https://emoji.slack-edge.com/TESKSKPTQ/broccoli-happy/4e3f2199769faf80.gif" width="30px"> </h4>
 
+<p align="center">Meu nome é Ariel, tenho 27 anos e me aventuro no mundo do código há 1. Sempre tive curiosidade de saber como a web funcionava, mas nunca tive a coragem de me jogar como no ano passado :)
+</p>
+
+<p align="center">
+- 🌱 Atualmente estou estudando JAVA e Python
+</p>
+<p align="center">
+- 💻 Em busca das primeiras experiências na área
+</p>
+<p align="center">
+- 💬 Gosto de falar sobre tech, café, comida e séries 
+</p>
+
+##
+  
+  
 <div align="center">
   <a href="https://github.com/ariel7ven">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ariel7ven&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
