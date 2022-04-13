@@ -1,5 +1,9 @@
+<p align="center">
+<img align="center" alt="GIF" src="https://media.giphy.com/media/1KrM2hhDN3dgk/giphy.gif" />
+</p>
+
 <samp>
-<h4 align="center"> Olá! <img src="https://emoji.slack-edge.com/TESKSKPTQ/broccoli-happy/4e3f2199769faf80.gif" width="30px"> </h4>
+<h3 align="center"> Olá! <img src="https://emoji.slack-edge.com/TESKSKPTQ/broccoli-happy/4e3f2199769faf80.gif" width="30px"> </h3>
 
 <p align="center">Meu nome é Ariel, tenho 27 anos e me aventuro no mundo do código há 1. Sempre tive curiosidade de saber como a web funcionava, mas nunca tive a coragem de me jogar como no ano passado :)
 </p>
